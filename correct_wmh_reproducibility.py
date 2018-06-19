@@ -135,7 +135,7 @@ def main():
     
     ddir = '/export/research/analysis/human/grosenberg/ugrant_20294/analysis_flair/'
     
-    stats_file = 'wmh_stats.csv'
+    stats_file = 'wmh_stats.txt'
     
     start_dir = os.getcwd()
     
